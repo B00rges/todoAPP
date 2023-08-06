@@ -1,3 +1,3 @@
 # todoApp
  
-Repositório da aplicação “Todo App“  desenvolvida no curso Start Capgemini
+Repositório da aplicação “Todo App”  desenvolvida no curso Start Capgemini
